@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+python-dotenv
+openpyxl
+xlrd
+pyarrow
+langchain
+langchain-core
+langchain-google-genai
+langgraph
